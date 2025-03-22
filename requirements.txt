@@ -1,0 +1,16 @@
+# API Clients
+arxiv==1.4.8
+anthropic==0.15.0
+openai==1.12.0
+
+# Web App
+streamlit==1.31.0
+plotly==5.18.0
+pandas==2.1.4
+
+# Scheduling & Email
+schedule==1.2.1
+python-dotenv==1.0.0
+
+# General utilities
+tqdm==4.66.1
